@@ -3,7 +3,7 @@
 
 <p align="center">  
   <a href="https://youtu.be/nE4v4KWBfAU">
-    <img alt="ULTRA" src="https://i.ibb.co/5v4vrfR/20241021-033752.jpg">
+    <img alt="ULTRA" src="https://files.catbox.moe/y1hq7c.jpg">
   </a>
 </p>
 <p align="center">
