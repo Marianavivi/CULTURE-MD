@@ -1,31 +1,23 @@
 
-#### MULTI DEVICE WHATSAPP BOT ULTRA | STILL MANY HIDDEN COMMANDS
+#### CULTURE | STILL MANY HIDDEN COMMANDS
 
 <p align="center">  
   <a href="https://youtu.be/nE4v4KWBfAU">
-    <img alt="ULTRA" src="https://files.catbox.moe/y1hq7c.jpg">
+    <img alt="CULTURE" src="https://files.catbox.moe/y1hq7c.jpg">
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/GlobalTechInfo?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?label=Followers&style=social"></a>
-<a href="https://github.com/GlobalTechInfo/ULTRA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/ULTRA-MD?&style=social"></a>
-<a href="https://github.com/GlobalTechInfo/ULTRA-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/GlobalTechInfo/ULTRA-MD?style=social"></a>
-<a href="https://github.com/GlobalTechInfo/ULTRA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/GlobalTechInfo/ULTRA-MD?label=Watching&style=social"></a>
+<a href="https://github.com/Marianavivi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Marianavivi?label=Followers&style=social"></a>
+<a href="https://github.com/Marianavivi/CULTURE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Marianavivi/CULTURE-MD?&style=social"></a>
+<a href="https://github.com/Marianavivi/CULTURE-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Marianavivi/CULTURE-MD?style=social"></a>
+<a href="https://github.com/Marianavivi/CULTURE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Marianavivi/CULTURE-MD?label=Watching&style=social"></a>
 </p>
 <p align="center">
   
 ----
 
- <p align="center"><img src="https://profile-counter.glitch.me/{ULTRA-MD}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{GlobalTechInfo}/count.svg" /></p>
-
-----
-<h1 align="center"> EXTERNAL PLUGINS </h1>
-
-<p align="center">
-<a href="https://github.com/GlobalTechInfo/EXTERNAL-PLUGINS"><img title="Author" src="https://img.shields.io/badge/ULTRA MD-PLUGINS-black?style=for-the-badge&logo=Github"></a>
-<p/>
-
-  
+ <p align="center"><img src="https://profile-counter.glitch.me/{CULTURE-MD}/count.svg" alt="Marianavivi :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Marianavivi}/count.svg" /></p>
+ 
 ----
 
 set the Env Vars.
@@ -72,12 +64,12 @@ To set up the ULTRA-MD quickly, follow our detailed tutorial on YouTube:
 ### **Fork & Star the Repository**
    - Start by forking this repository and giving it a ⭐ to support Globaltechinfo!
      To set up the ULTRA MD quickly, first fork this repository:
-[![ULTRA MD Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/GlobalTechInfo/ULTRA-MD/fork)
+     [![CULTURE-MD Github Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/Marianavivi/CULTURE-MD/fork)
 
 ### **Pairing the Bot**
    - Visit the bot site to generate a pairing code and get SESSION ID.
 
-     [![ULTRA-MD Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://wicked-marilin-oletters-92dfbce6.koyeb.app/)
+     [![CULTURE-MD Github Repo](https://img.shields.io/badge/Whatsapp-Pair%20Code-green?style=for-the-badge&logo=Whatsapp)](https://culturesession-6987a4749d66.herokuapp.com/pair/)
 
 ### **Step-by-Step Deployment Guide**
 
@@ -85,7 +77,7 @@ To set up the ULTRA-MD quickly, follow our detailed tutorial on YouTube:
 1. [Create an Account on Heroku](https://signup.heroku.com/) if you haven’t already.
 2. Click the button below to deploy directly on Heroku:
    <br>
-   <a href='https://heroku.com/deploy?template=https://github.com/GlobTechInfo/ULTRA-MD/Bypass' target="_blank">
+   <a href='https://heroku.com/deploy?template=https://github.com/Marianavivi/CULTURE-MD/Bypass' target="_blank">
       <img alt='Deploy on Heroku' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/>
    </a>
 
@@ -93,7 +85,7 @@ To set up the ULTRA-MD quickly, follow our detailed tutorial on YouTube:
 1. [Sign Up on Koyeb](https://app.koyeb.com/auth/signup).
 3. Deploy your app using the button below:
    <br>
-   <a href='https://github.com/GlobalTechInfo/ULTRA-MD' target="_blank">
+   <a href='https://github.com/Marianavivi/CULTURE-MD' target="_blank">
       <img alt='Deploy on Koyeb' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=koyeb&logoColor=white'/>
    </a>
 
@@ -101,7 +93,7 @@ To set up the ULTRA-MD quickly, follow our detailed tutorial on YouTube:
 1. [Create an Account on Railway](https://railway.app/login) if you don’t have one.
 2. Click the button below to deploy using Railway:
    <br>
-   <a href='https://railway.app/template/q20OfH?referralCode=b9IKyc' target="_blank">
+   <a href='https://railway.app/template/' target="_blank">
       <img alt='Deploy on Railway' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway&logoColor=white'/>
    </a>
 
@@ -125,7 +117,7 @@ To set up the ULTRA-MD quickly, follow our detailed tutorial on YouTube:
 1. [Sign Up On Replit](https://repl.it) if you don’t have one.
 2. Click the button below to deploy using Replit:
    <br>
-   <a href='https://repl.it/github/GlobalTechInfo/ULTRA-MD' target="_blank">
+   <a href='https://repl.it/github/Marianavivi/CULTURE-MD' target="_blank">
       <img alt='Deploy on Replit' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=replit&logoColor=white'/>
    </a>
    
@@ -149,22 +141,22 @@ To set up the ULTRA-MD quickly, follow our detailed tutorial on YouTube:
 
 ## Support & Community
 
-<p align="center">Need help? Create an <a href="https://github.com/GlobalTechInfo/ULTRA-MD/issues">issue</a> or <a href="https://wa.me/923444844060?text=Hello+Silva+Tech,+I+need+assistance+with+Silva+MD+Bot">Contact Us on WhatsApp</a>.</p>
+<p align="center">Need help? Create an <a href="https://github.com/Marianavivi/CULTURE-MD/issues">issue</a> or <a href="https://wa.me/254732647560?text=Hello+Mariana,+I+need+assistance+with+Culture-Md">Contact Us on WhatsApp</a>.</p>
 
 ---
 
 ### 📜 Table of Contents
-1. [About ULTRA-MD](#-about-ultra-md)
-2. [Features](#-features)
-3. [Installation](#-installation)
-4. [Usage](#-usage)
-5. [How to Contribute](#-how-to-contribute)
-6. [Connect with the Developer](#-connect-with-the-developer)
+1. [About Culture-MD](#-about-culture-md)
+3. [Features](#-features)
+4. [Installation](#-installation)
+5. [Usage](#-usage)
+6. [How to Contribute](#-how-to-contribute)
+7. [Connect with the Developer](#-connect-with-the-developer)
 
 ---
 
-### 🎩 About ULTRA-MD
-**ULTRA-MD** is a multi-functional WhatsApp bot designed for automatic reactions, status updates, motivational quotes, and music/media downloads. Built with the **Baileys API**, it aims to enhance user interaction with custom and automated responses. Whether you want fun interactions in a group, to download media from links, or to get motivational quotes, this bot does it all!
+### 🎩 About CULTURE-MD
+**CULTURE-MD** is a multi-functional WhatsApp bot designed for automatic reactions, status updates, motivational quotes, and music/media downloads. Built with the **Baileys API**, it aims to enhance user interaction with custom and automated responses. Whether you want fun interactions in a group, to download media from links, or to get motivational quotes, this bot does it all!
 
 Key features include:
 - **Auto-React to Group Messages** with humorous emojis
@@ -181,7 +173,7 @@ To get started with this project, follow the steps below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/GlobalTechInfo/ULTRA-MD.git
+   git clone https://github.com/Marianavivi/CULTURE-MD.git
 ---
 
 ### 💥 Features
@@ -275,17 +267,17 @@ Submit a pull request with a detailed description of your changes.
 ### 🧑‍💻 Connect with the Developer
 
 <p align="center">
-  <a href="https://github.com/GlobalTechInfo">
-    <img src="https://img.shields.io/badge/GitHub-GlobalTechInfo-blue?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/Marianavivi">
+    <img src="https://img.shields.io/badge/Marianavivi-blue?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://t.me/GlobalBotInc">
-    <img src="https://img.shields.io/badge/Telegram-@GlobalBotInc-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">
+  <a href="https://t.me/Marianavivi">
+    <img src="https://img.shields.io/badge/Telegram-Marianavivi-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://wa.me/message/923444844060">
+  <a href="https://wa.me/message/254732647560">
     <img src="https://img.shields.io/badge/WhatsApp-Click%20Here%20to%20Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://youtube.com/@GlobalTechInfo">
-    <img src="https://img.shields.io/badge/YouTube-@GlobalTechInfo-000000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="https://youtube.com/@MarianaGuetirrez-b5p">
+    <img src="https://img.shields.io/badge/YouTube-@MarianaGuetirrez-b5p-000000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
 ### 📄 License
@@ -295,11 +287,11 @@ This project is licensed under the [Apache-2.0 license](LICENSE) - see the LICEN
 
 ## ⚠️ Disclaimer
 
-*ULTRA MD Bot is not affiliated with WhatsApp Inc. Misusing the bot could result in a temporary or permanent WhatsApp ban. Globaltechinfo is not responsible for any bans or restrictions that may occur.*
+*CULTURE MD Bot is not affiliated with WhatsApp Inc. Misusing the bot could result in a temporary or permanent WhatsApp ban. Globaltechinfo is not responsible for any bans or restrictions that may occur.*
 
 ---
 
-<p align="center">© Globaltechinfo 2024</p>
+<p align="center">© MARIANA 2024</p>
 
   
   
