@@ -352,7 +352,7 @@ npm install && npm start
 ## `Main Dev` 
 <a href="https://github.com/Marianavivi"><img src="https://github.com/Marianavivi.png" width="250" height="250" alt="Marianavivi"/></a>
   
-`ULTRA-MD - By Marianavivi`
+`CULTURE-MD - By Marianavivi`
 
 
 <h2 align="center">  NOTICE
@@ -368,6 +368,6 @@ npm install && npm start
   
 <p align="center">
   
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07)
+[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VaLYCPXJENxtW7BU9a0u)
 
 --------
