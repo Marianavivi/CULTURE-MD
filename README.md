@@ -330,15 +330,15 @@ curl -fsSl https://deb.nodesource.com/setup_lts.x | bash - && apt -y install nod
 apt-get install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
 ```
 ```
-git clone https://github.com/<your gitHub Username>/ULTRA-MD
-cd ULTRA-MD
+git clone https://github.com/<your gitHub Username>/CULTURE-MD
+cd CULTURE-MD
 ```
 ```
 npm install && npm start
 ```
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-- Star ⭐ the repo if you like ULTRA-MD.
+- Star ⭐ the repo if you like CULTURE-MD.
 
 6. #### CREDITS 
 <div><button id="boton" type="button">FG98F</button></div>
@@ -350,9 +350,9 @@ npm install && npm start
 
 
 ## `Main Dev` 
-<a href="https://github.com/GlobalTechInfo"><img src="https://github.com/GlobalTechInfo.png" width="250" height="250" alt="GlobalTechInfo"/></a>
+<a href="https://github.com/Marianavivi"><img src="https://github.com/Marianavivi.png" width="250" height="250" alt="Marianavivi"/></a>
   
-`ULTRA-MD - By GlobalTechInfo`
+`ULTRA-MD - By Marianavivi`
 
 
 <h2 align="center">  NOTICE
